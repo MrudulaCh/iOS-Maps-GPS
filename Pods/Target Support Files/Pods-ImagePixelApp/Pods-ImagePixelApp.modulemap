@@ -1,0 +1,6 @@
+framework module Pods_ImagePixelApp {
+  umbrella header "Pods-ImagePixelApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
