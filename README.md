@@ -1,5 +1,4 @@
 # iOS-Maps-GPS
-An iOS app using MapKit Framework to embed maps and GPS location.This app downloads images from Flickr API using Alamofire
 
 ImagePixelApp is an iOS app using MapKit framework to embed maps and locations in views.This app downloads images from Flickr API using Alamofire.
 
@@ -16,4 +15,6 @@ For installing Alamofire/ AlamofireImage cocoapods, visit 'https://github.com/Al
 
 ## Video Walkthrough
 
+Here's a walkthrough of implemented user stories:
 
+<img src='' title='Video Walkthrough' width='30%' alt='Video Walkthrough'  />
