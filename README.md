@@ -17,4 +17,4 @@ For installing Alamofire/ AlamofireImage cocoapods, visit 'https://github.com/Al
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='30%' alt='Video Walkthrough'  />
+<img src='https://user-images.githubusercontent.com/22763087/50612081-9f760400-0e8d-11e9-9875-7c83ba98746b.gif'/>
